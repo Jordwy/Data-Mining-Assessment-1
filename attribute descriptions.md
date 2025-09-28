@@ -8,7 +8,7 @@ Categorical class label
 
 1: Bad
 
-/ta
+
 
 Status of existing checking account
 
