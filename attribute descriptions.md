@@ -8,8 +8,6 @@ Categorical class label
 
 1: Bad
 
-
-
 Status of existing checking account
 
 Categorical
